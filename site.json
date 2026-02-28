@@ -1,12 +1,12 @@
 {
-  "business_name": "Your Business Name",
-  "headline": "Main headline goes here",
-  "subheadline": "Short supporting sentence explaining the offer",
-  "cta_text": "Get Started",
-  "cta_link": "#",
+  "business_name": "Claradent Dental Care",
+  "headline": "Same-day emergency dental appointments",
+  "subheadline": "Illustrative demo site: fast help for toothache, swelling, and broken teeth.",
+  "cta_text": "Call now",
+  "cta_link": "tel:+442000000000",
   "features": [
-    "First key benefit",
-    "Second key benefit",
-    "Third key benefit"
+    "Emergency walk-ins (subject to availability)",
+    "Clear pricing explained before treatment",
+    "Friendly, calm approach for anxious patients"
   ]
 }
