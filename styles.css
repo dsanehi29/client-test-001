@@ -14,3 +14,18 @@ p {
   font-size: 20px;
   opacity: 0.8;
 }
+
+#cta {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  background-color: #1e90ff;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+#cta:hover {
+  background-color: #187bcd;
+}
