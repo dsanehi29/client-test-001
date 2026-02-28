@@ -1,0 +1,12 @@
+{
+  "business_name": "Your Business Name",
+  "headline": "Main headline goes here",
+  "subheadline": "Short supporting sentence explaining the offer",
+  "cta_text": "Get Started",
+  "cta_link": "#",
+  "features": [
+    "First key benefit",
+    "Second key benefit",
+    "Third key benefit"
+  ]
+}
