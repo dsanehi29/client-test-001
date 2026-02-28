@@ -1,12 +1,13 @@
 {
-  "business_name": "Hounslow Tyre & MOT",
-  "headline": "MOT & tyres fitted same day",
-  "subheadline": "Honest advice, fair pricing, quick turnaround in Hounslow.",
-  "cta_text": "Call now",
-  "cta_link": "tel:+442000000000",
+  "business_name": "Hounslow Fade Studio",
+  "headline": "Skin fades, beard trims & hot towel shaves",
+  "subheadline": "Clean cuts for men in Hounslow with fair pricing, quick appointments, and consistent results.",
+  "cta_text": "Book now",
+  "cta_link": "https://example.com/book",
   "features": [
-    "Same-day MOT and tyre fitting when slots are available",
-    "Clear quotes before work starts—no surprise charges",
-    "Local Hounslow garage with fast turnaround"
+    "Walk-ins welcome when chairs are free",
+    "Precise skin fades tailored to your style",
+    "Beard trims with clean line-up finishing",
+    "Hot towel service for a sharp finish"
   ]
 }
